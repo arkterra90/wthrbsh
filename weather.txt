@@ -1,0 +1,4 @@
+Weather:
+  Report: temperature: 11.73 C (53 F) conditions: scattered clouds
+  Locale: current time: Sun 30 Apr 2023 12:20:10 PM CDT
+    Source: OpenWeatherMap.org
